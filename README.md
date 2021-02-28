@@ -1,3 +1,3 @@
 # Tic Tac Toe
 
-## Bulid using Recat.
+## Built using React.
